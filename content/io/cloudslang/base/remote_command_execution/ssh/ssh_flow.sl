@@ -50,7 +50,7 @@ flow:
           required: false
       - privateKeyFile:
           required: false
-      - timeout: "'90000'"
+      - timeout: "'300000'"
       - characterSet: "'UTF-8'"
       - closeSession: "'false'"
       - agentForwarding:
